@@ -1,0 +1,6 @@
+framework module Pods_schoology {
+  umbrella header "Pods-schoology-umbrella.h"
+
+  export *
+  module * { export * }
+}

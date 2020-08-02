@@ -1,0 +1,24 @@
+PODS:
+  - OAuthSwift (1.2.2)
+  - SwiftyJSON (4.2.0)
+  - UICircularProgressRing (4.1.0)
+
+DEPENDENCIES:
+  - OAuthSwift (~> 1.2.0)
+  - SwiftyJSON (~> 4.0)
+  - UICircularProgressRing
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OAuthSwift
+    - SwiftyJSON
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  OAuthSwift: 27b34fe80b76b67cd8f45571e0be2432bc9f6de1
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  UICircularProgressRing: 5a32c01f54474571b1e66e8fa050c0f83d6d981b
+
+PODFILE CHECKSUM: 72e3990576a6507988f80ed3cb41776ecfc1fd06
+
+COCOAPODS: 1.5.3
